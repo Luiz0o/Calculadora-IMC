@@ -26,7 +26,7 @@ var age = document.getElementById("age");
   if(bmi<18.5){  
    result = 'Abaixo do peso';  
     }else if(18.5<=bmi&&bmi<=24.9){  
-   result = 'Saúdavel';  
+   result = 'Saudável';  
     }else if(25<=bmi&&bmi<=29.9){  
    result = 'Acima do peso';  
     }else if(30<=bmi&&bmi<=34.9){  
